@@ -57,4 +57,4 @@ Implementing a sliding menu in JavaScript allowed me to learn about DOM manipula
 ## Author
 
 - Website - [Sebastian](https://sebastianjast.github.io/Responsive_CV/)
-- Frontend Mentor - [@yourusername](https://www.frontendmentor.io/profile/SebastianJast)
+- Frontend Mentor - [@SebastianJast](https://www.frontendmentor.io/profile/SebastianJast)
